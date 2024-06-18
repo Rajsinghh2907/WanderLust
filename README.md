@@ -1,9 +1,7 @@
 
 # Project-Wanderlust
 
- This project was created from local system
- It's a Full Stack Project based on MERN Development.  This project buliding idea is to list the hotels of different cities globally so that it can easily accessible to    
- your vacation place.
+This project, developed on a local system, is a comprehensive Full Stack application utilizing MERN (MongoDB, Express.js, React, Node.js) technology. The primary goal of this project is to create a global directory of hotels across various cities, making it easier for users to find and access accommodations for their vacation destinations.
  
 #  Frontend:
  HTML5 / CSS3 / JAVA SCRIPT
@@ -19,7 +17,7 @@
 1. BOOTSTRAP
 
 # Other
-  This project also have implemented with  MVC Freamwork / REST API'S / AJAX / 
+  This project is built with the MVC Framework, REST APIs, and AJAX as part of its implementation.
 
   
 
