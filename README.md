@@ -19,8 +19,9 @@ This project, developed on a local system, is a comprehensive Full Stack applica
 # Other
   This project is built with the MVC Framework, REST APIs, and AJAX as part of its implementation.
 
-  # Deployed Link
- https://wanderlust-gprt.onrender.com/listings
+  # Deployment
+  Visit the Deployed Application(https://wanderlust-gprt.onrender.com/listings)
+ 
   
 # Wanderlust Web Project Installation Guide
 
